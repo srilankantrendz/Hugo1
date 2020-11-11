@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://srilankantrendz.github.io/Hugo1/"
 languageCode = "en-us"
 title = "Fun Tech Stuff"
 theme = "ananke" 
